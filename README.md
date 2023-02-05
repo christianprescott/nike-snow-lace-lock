@@ -3,9 +3,9 @@
 These models replace the plastic part securing the liner laces on Nike snowboarding boots. After enough stress and temperature cycles, the plastic lace lock weakens. The part can fail when laces are pulled outward or upward against the outside lace guides. Fits all Nike models with this up-and-out liner lacing.
 
 Two models are available:
-- **original.stl** Modeled after a scan of the original part.
+- **[original.stl](original.stl)** Modeled after a scan of the original part.
 
-- **reinforced.stl** Reinforced around the lace guides and slightly more space inside. Larger external dimensions and simpler geometry.
+- **[reinforced.stl](reinforced.stl)** Reinforced around the lace guides and slightly more space inside. Larger external dimensions and simpler geometry.
 
 It can be difficult to push laces through the printed part without destroying the aglets. Consider scaling up by 15% or more to make the job easier - it still functions well as a lock.
 
